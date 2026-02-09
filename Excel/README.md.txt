@@ -62,7 +62,8 @@ Includes fields such as:
 
 ## 📸 Dashboard / Output
 
-![Dashboard](images/dashboard.png)
+https://github.com/mehulmakwana-mj/Project/blob/main/Excel/dashboard.png
+
 
 
 ---
@@ -79,5 +80,6 @@ Aspiring Data Analyst
 
 📧 mehulmakwana1898@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/mehul1898/
+
 
 
