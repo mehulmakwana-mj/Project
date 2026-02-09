@@ -72,11 +72,7 @@ The dataset includes healthcare-related information such as:
 ---
 
 ## 📸 Dashboard / Output
-(Add your screenshots in the images folder)
-
-Example:
-
-![Dashboard](images/healthcare-dashboard.png)
+https://github.com/mehulmakwana-mj/Project/tree/main/Power%20Bi/Screenshot
 
 ---
 
@@ -100,5 +96,6 @@ Aspiring Data Analyst
 🔗 LinkedIn: https://linkedin.com/in/mehul1898/
 
 ---
+
 
 
