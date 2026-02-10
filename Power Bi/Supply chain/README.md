@@ -80,10 +80,7 @@ The dataset includes FMCG supply chain data such as:
 ---
 
 ## 📸 Dashboard / Output
-(Add your screenshots in the images folder)
-
-Example:
-
+https://github.com/mehulmakwana-mj/Project/tree/main/Power%20Bi/Supply%20chain/Screen%20shot
 
 
 ---
@@ -108,5 +105,6 @@ Aspiring Data Analyst
 🔗 LinkedIn: https://linkedin.com/in/mehul1898/
 
 ---
+
 
 
